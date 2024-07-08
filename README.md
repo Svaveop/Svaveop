@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Vahe</h1>
-<h3 align="center">Developer from Armenia</h3>
+<h3 align="center">Sigma developer from Armenia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
