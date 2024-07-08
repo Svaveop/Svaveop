@@ -33,7 +33,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Vahe"> <img align="left" src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5c58570cfdd26f0001068f06/0x0.png" height="55" width="55" alt="Vahe" /></a></p>
-<a href="https://ko-fi.com/Vahe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Vahe" /></a></p><br><br><br><br><br><br>
+<a href="https://ko-fi.com/vahesvaveop"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Vahe" /></a></p><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en" alt="svaveop" /></p>
 
