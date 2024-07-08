@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JS, Swift**
 
-- 💬 Ask me about **HTML, CSS or JS**
+- 💬 Ask me about **ANYTHING (But not hard)**
 
 - 📫 How to reach me **vahe.martirosyan202096@gmail.com**
 
