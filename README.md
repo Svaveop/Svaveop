@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vahe.martirosyan202096@gmail.com**
 
-- ⚡ Fun fact **I have been programming since I was 10**
+- ⚡ Fun fact **I have been programming since I was 9**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
