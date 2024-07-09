@@ -25,6 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vahe-svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vahe-svaveop" height="30" width="40" /></a>
+    <a href="https://dev.to/vahe_svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vahe_svaveop" height="30" width="40" /></a>
 <a href="https://twitter.com/svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="svaveop" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vahe svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vahe svaveop" height="30" width="40" /></a>
 <a href="https://fb.com/vahe svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vahe svaveop" height="30" width="40" /></a>
