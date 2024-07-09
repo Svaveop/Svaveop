@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blox Fruit site (HTML + CSS)**
 
-- 🌱 I’m currently learning **JS, Swift**
+- 🌱 I’m currently learning **JS, Swift, Java**
 
 - 💬 Ask me about **ANYTHING (But not hard)**
 
