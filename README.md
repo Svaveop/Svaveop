@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on **Blox Fruit site (HTML + CSS)**
 
-- 🌱 I’m currently learning **JS, Swift, Java**
+- 🌱 I’m currently learning **Swift, Java**
 
 - 💬 Ask me about **ANYTHING (But not hard)**
 
 - 📫 How to reach me **vahe.martirosyan202096@gmail.com**
 
-- ⚡ Fun fact **I have been programming since I was 9**
+- ⚡ Fun fact **I have been programming since I was 10**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
