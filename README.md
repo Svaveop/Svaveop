@@ -32,6 +32,7 @@
 <a href="https://fb.com/vahe svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vahe svaveop" height="30" width="40" /></a>
 <a href="https://instagram.com/svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="svaveop" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCvmuK_8A8Py7S9A3ZBf80lQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vahe svaveop" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="svaveop" height="30" width="40" /></a>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
