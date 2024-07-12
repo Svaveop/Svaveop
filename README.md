@@ -30,7 +30,7 @@
 <a href="https://instagram.com/svaveop" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="svaveop" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/vahe svaveop" target="blank"><img align="center" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" alt="vahe svaveop" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/svaveop" target="blank"><img align="center" src="https://i0.wp.com/totheinnovation.com/wp-content/uploads/2022/03/LeetCode-Logo.png?w=500&ssl=1" alt="svaveop" height="40" width="40" /></a>
-<!--<a href="https://stackoverflow.com/users/bsf" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" alt="bsf" height="40" width="40" /></a>-->
+<!--<a href="https://stackoverflow.com/users/bsf" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" alt="bsf" height="30" width="30" /></a>-->
 <a href="https://www.youtube.com/channel/UCvmuK_8A8Py7S9A3ZBf80lQ" target="blank"><img align="center" src="http://pngimg.com/uploads/youtube/youtube_PNG14.png" alt="vahe svaveop" height="40" width="40" /></a>
 
 <h3 align="left">Programming Languages:</h3>
