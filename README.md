@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Swift, Java**
 
-- 💬 Ask me about **ANYTHING (But not hard)**
+- 💬 Ask me about **Anything (But not hard)**
 
 - 📫 How to reach me **vahe.martirosyan202096@gmail.com**
 
