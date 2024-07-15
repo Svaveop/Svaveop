@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on **Blox Fruit site, Java Calculator)**
+- 🔭 I’m currently working on **Blox Fruit site, Java Calculator**
 
 - 🌱 I’m currently learning **Swift, Java**
 
