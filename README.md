@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Swift, Java**
 
-- 💬 Ask me about **Anything about my prog languages (See bellow 👇)**
+- 💬 Ask me about **Anything about my prog languages(See bellow 👇)**
 
 - 📫 How to reach me ***vahe.martirosyan202096@gmail.com***
 
