@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I have been programming since I was 10**
 
+- 🗺️ Country **Armenia**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vahe-svaveop" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.1UqC1FkTIH-KzOsnlbP6GgHaHa&pid=Api&P=0&h=220" alt="vahe-svaveop" height="40" width="40" /></a>
