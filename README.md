@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I have been programming since I was 10**
 
-- 🗺️ Place **Armenia Yerevan**
+- 🗺️ Place **Armenia, Yerevan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
