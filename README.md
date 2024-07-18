@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I have been programming since I was 10**
 
-- 🗺️ Country **Armenia**
+- 🗺️ Place **Armenia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
