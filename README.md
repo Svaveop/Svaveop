@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
 
-- 🔭 I’m currently working on **Blox Fruit site, Java Calculator**
+- 🔭 I’m currently working on **Java Calculator**
 
-- 🌱 I’m currently learning **Swift, Java**
+- 🌱 I’m currently learning **Java, JavaScript**
 
 - 💬 Ask me about **Anything about my prog languages (bellow 👇)**
 
