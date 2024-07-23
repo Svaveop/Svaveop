@@ -9,6 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
 
+- 🗺️ I’m from  **Armenia, Yerevan**
+  
 - 🔭 I’m currently working on **Java Calculator**
 
 - 🌱 I’m currently learning **Java, JavaScript**
@@ -18,8 +20,6 @@
 - 📫 How to reach me ***vahe.martirosyan202096@gmail.com***
 
 - ⚡ Fun fact **I have been programming since I was 10**
-
-- 🗺️ I’m from  **Armenia, Yerevan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
