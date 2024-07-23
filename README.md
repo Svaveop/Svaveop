@@ -13,7 +13,7 @@
   
 - 🔭 I’m currently working on **Java Calculator**
 
-- 🌱 I’m currently learning **Java, JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript(with packt>)**
 
 - 💬 Ask me about **Anything about my prog languages (bellow 👇)**
 
