@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://codepen.io/vahe-svaveop" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.1UqC1FkTIH-KzOsnlbP6GgHaHa&pid=Api&P=0&h=220" alt="vahe-svaveop" height="40" width="40" /></a>
 <a href="https://dev.to/vahe_svaveop" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="vahe_svaveop" height="40" width="40" /></a>
-<a href="https://fb.com/vahe svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vahe svaveop" height="40" width="40" /></a>
+<!--<a href="https://fb.com/vahe svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vahe svaveop" height="40" width="40" /></a>-->
 <a href="https://instagram.com/svaveop" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="svaveop" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/vahe-svaveop-3a4473318/" target="blank"><img align="center" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" alt="vahe svaveop" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/svaveop" target="blank"><img align="center" src="https://i0.wp.com/totheinnovation.com/wp-content/uploads/2022/03/LeetCode-Logo.png?w=500&ssl=1" alt="svaveop" height="40" width="40" /></a>
