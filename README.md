@@ -5,72 +5,162 @@
     </a>
 </h1>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
+<!--<img align="right" alt="Coding" height="200" width="250" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
 
-- 🌱 I’m currently learning **Java (itProger), JavaScript (Packt)**
+<p align="center">
+  🌱 I’m currently learning <strong>Java (itProger), JavaScript (Packt)</strong>
+</p>
 
-- 📫 How to reach me ***vahe.martirosyan202096@gmail.com***
+<p align="center">
+  📫 How to reach me <strong>vahe.martirosyan202096@gmail.com</strong>
+</p>
 
-- ⚡ Fun fact **I have been programming since I was 10**
+<p align="center">
+  ⚡ Fun fact <strong>I have been programming since I was 10</strong>
+</p>
+<br>
+<h3 align="center">Languages</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.apple.com/swift/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" />
+      </a>
+      <br>Swift
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/vahe-svaveop" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.1UqC1FkTIH-KzOsnlbP6GgHaHa&pid=Api&P=0&h=220" alt="vahe-svaveop" height="40" width="40" /></a>
-<a href="https://dev.to/vahe_svaveop" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="vahe_svaveop" height="40" width="40" /></a>
-<!--<a href="https://fb.com/vahe svaveop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vahe svaveop" height="40" width="40" /></a>-->
-<a href="https://instagram.com/svaveop" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="svaveop" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/vahe-svaveop-3a4473318/" target="blank"><img align="center" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" alt="vahe svaveop" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/svaveop" target="blank"><img align="center" src="https://i0.wp.com/totheinnovation.com/wp-content/uploads/2022/03/LeetCode-Logo.png?w=500&ssl=1" alt="svaveop" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCvmuK_8A8Py7S9A3ZBf80lQ" target="blank"><img align="center" src="http://pngimg.com/uploads/youtube/youtube_PNG14.png" alt="vahe svaveop" height="40" width="40" /></a>
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+<h3 align="center">Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">IDEs</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
+      </a>
+      <br>PyCharm CE
+    </td>
+          <td align="center" width="96">
+      <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
+      </a>
+      <br>IntelliJ IDEA
+    </td>
+    <td align="center" width="96">
+      <a href="https://visualstudio.microsoft.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
+      </a>
+      <br>VS<br> Code
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.sublimetext.com/" target="_blank">
+        <img src="https://toppng.com/uploads/preview/sublime-text-icon-sublime-text-3-icon-11553464063uymi94fpyp.png" width="48" height="48" alt="Sublime Text" />
+      </a>
+      <br>Sublime Text
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.arduino.cc/en/software" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino IDE" />
+      </a>
+      <br>Arduino IDE
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/svaveop">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="svaveop" />
   </a>
 </p>
 
-<h3 align="left">Other Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en" alt="svaveop" />
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/svaveop"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="svaveop" /></a></p><br><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en" alt="svaveop" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact" alt="svaveop" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svaveop&" alt="svaveop" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="display: inline-block; margin: 0 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svaveop&" alt="Streak Stats" style="display: inline-block; margin: 0 10px;" />
+</div>
