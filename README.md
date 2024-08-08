@@ -8,12 +8,8 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
-  
-- 🔭 I’m currently working on **Java Calculator**
 
 - 🌱 I’m currently learning **Java (itProger), JavaScript (Packt)**
-
-- 💬 Ask me about **Anything about my prog languages (bellow 👇)**
 
 - 📫 How to reach me ***vahe.martirosyan202096@gmail.com***
 
