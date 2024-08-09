@@ -24,31 +24,31 @@
 <h3 align="center">Languages</h3>
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
       </a>
@@ -56,13 +56,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://developer.apple.com/swift/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" />
       </a>
@@ -75,31 +75,31 @@
 <h3 align="center">Tools</h3>
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://github.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.arduino.cc/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" />
       </a>
       <br>Arduino
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
       </a>
       <br>Figma
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://getbootstrap.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
       </a>
@@ -111,37 +111,37 @@
 <h3 align="center">IDEs</h3>
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.jetbrains.com/pycharm/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
       </a>
       <br>PyCharm CE
     </td>
-          <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
       </a>
       <br>IntelliJ IDEA
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://visualstudio.microsoft.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
       </a>
       <br>Visual Studio
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
       </a>
       <br>VS<br> Code
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.sublimetext.com/" target="_blank">
         <img src="https://toppng.com/uploads/preview/sublime-text-icon-sublime-text-3-icon-11553464063uymi94fpyp.png" width="48" height="48" alt="Sublime Text" />
       </a>
       <br>Sublime Text
     </td>
-    <td align="center" width="96">
+    <td align="center" width="99">
       <a href="https://www.arduino.cc/en/software" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino IDE" />
       </a>
