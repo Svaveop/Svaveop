@@ -166,6 +166,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Svaveop&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="My GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Svaveop&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Vahe's GitHub activity graph" />
 </div>
 
