@@ -165,3 +165,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="display: inline-block; margin: 0 10px;" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Svaveop&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Vahe's GitHub activity graph" />
+</div>
+
