@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
 
 <p align="center">
-  🌱 I’m currently learning <strong>Java (itProger), JavaScript (Packt)</strong>
+  🌱 I’m currently learning <strong><em>Java</em> (itProger), <em>JavaScript</em> (Packt)</strong>
 </p>
 
 <p align="center">
