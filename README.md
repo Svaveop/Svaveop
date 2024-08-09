@@ -150,7 +150,10 @@
   </tr>
 </table>
 
-<p align="center">Also Xcode but it's only for macOS</p>
+<p align="center">
+  <em>Also Xcode but it's only for macOS</em>
+</p>
+
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/svaveop">
