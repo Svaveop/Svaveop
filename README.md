@@ -20,7 +20,7 @@
 <p align="center">
   ⚡ Fun fact <strong>I have been programming since I was 10</strong>
 </p>
-<br>
+
 <h3 align="center">Languages</h3>
 <table align="center">
   <tr>
