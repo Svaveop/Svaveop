@@ -160,11 +160,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en" alt="svaveop" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svaveop&" alt="Streak Stats" style="display: inline-block; margin: 0 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="display: inline-block; margin: 0 10px;" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svaveop&" alt="Streak Stats" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Top Languages" style="display: inline-block;" />
 </p>
 
 <div align="center">
