@@ -6,6 +6,8 @@
 </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Svaveop&color=brightgreen)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+
 
 
 <div align="center">
