@@ -5,7 +5,8 @@
     </a>
 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=Svaveop&color=brightgreen)
+
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
