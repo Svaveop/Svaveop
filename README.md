@@ -5,17 +5,15 @@
     </a>
 </h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Svaveop&theme=gruvbox&no-frame=true&margin-w=5&title=Commits,Stars,Followers,PullRequest,Repositories&column=5&row=1" alt="GitHub Trophies">
   </a>
 </div>
 
-
-
 <!--<img align="right" alt="Coding" height="200" width="250" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">-->
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=svaveop&label=Profile%20views&color=0e75b6&style=flat" alt="svaveop" /> </p>
 
 <p align="center">
   🌱 I’m currently learning <strong><em>Java</em> (itProger), <em>JavaScript</em> (Packt)</strong>
