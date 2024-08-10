@@ -5,10 +5,9 @@
     </a>
 </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Svaveop&color=brightgreen)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen">
+</div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
