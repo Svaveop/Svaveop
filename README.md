@@ -96,12 +96,6 @@
       <br>GitHub
     </td>
     <td align="center" width="99">
-      <a href="https://www.arduino.cc/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" />
-      </a>
-      <br>Arduino
-    </td>
-    <td align="center" width="99">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
       </a>
