@@ -111,7 +111,7 @@
       <a href="https://getbootstrap.com" target="_blank">
         <img src="https://www.freeiconspng.com/thumbs/command-line-icon/command-line-icon-1.png" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>CMD
+      <br>Command Prompt
     </td>
   </tr>
 </table>
