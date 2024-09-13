@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  ⚡ I've been passionate about programming since I was <strong>10 years old</strong>.
+  🎉 I've been passionate about programming since I was <strong>10 years old</strong>.
 </p>
 
 <h3 align="center">Languages</h3>
