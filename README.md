@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-  📫 How to reach me <strong>vahe.martirosyan202096@gmail.com</strong>
+    📫 Feel free to contact me at <strong>vahe.martirosyan202096@gmail.com </strong>
 </p>
 
 <p align="center">
-  ⚡ Fun fact <strong>I have been programming since I was 10</strong>
+  ⚡ I've been passionate about programming since I was <strong>10 years old</strong>.
 </p>
 
 <h3 align="center">Languages</h3>
