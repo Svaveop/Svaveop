@@ -18,7 +18,7 @@
 <!--<img align="right" alt="Coding" height="200" width="250" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">-->
 
 <p align="center">
-  🌱 I’m currently learning <strong><em>Java</em> (itProger), <em>JavaScript</em> (Packt)</strong>
+  🌱 I am currently advancing my skills in <strong>Java (itProger) </strong> and <strong> JavaScript (Packt)</strong>.
 </p>
 
 <p align="center">
