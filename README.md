@@ -5,9 +5,9 @@
     </a>
 </h1>
 
-<a href="https://visitcount.itsvg.in">
+<h3 href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Svaveop&label=My%20Views&color=9&icon=1&pretty=true" />
-</a>
+</h3>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
