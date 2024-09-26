@@ -172,7 +172,7 @@
   <a href="https://www.buymeacoffee.com/svaveop">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="svaveop" />
   </a>
-      <a href="https://github.com/Svaveop" target="_blank">
+      <!--<a href="https://github.com/Svaveop" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
   <a href="linkedin.com/in/vahe-martirosyan-3a4473318 target="_blank">
@@ -183,7 +183,7 @@
   </a>
     <a href="https://twitter.com/your-profile" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
-  </a>
+  </a>-->
 </p>
 
 <p align="center">
