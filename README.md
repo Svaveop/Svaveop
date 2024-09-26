@@ -175,7 +175,7 @@
       <a href="https://github.com/Svaveop" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="linkedin.com/in/vahe-martirosyan-3a4473318 target="_blank">
     <img src="linkedin.com/in/vahe-martirosyan-3a4473318" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
