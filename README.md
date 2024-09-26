@@ -168,7 +168,6 @@
   <em>Also Xcode but it's only for macOS</em>
 </p>
 
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/svaveop">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="svaveop" />
@@ -185,4 +184,3 @@
 <!--<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Svaveop&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Vahe's GitHub activity graph" />
 </div>-->
-
