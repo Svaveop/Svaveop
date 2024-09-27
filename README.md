@@ -57,7 +57,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="99">
-      <a href="https://www.w3.org/html/" target="_blank">
+      <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
