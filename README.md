@@ -182,7 +182,7 @@
   <a href="linkedin.com/in/vahe-martirosyan-3a4473318 target="_blank">
     <img src="linkedin.com/in/vahe-martirosyan-3a4473318" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/your-profile" target="_blank">
+  <a href="https://x.com/svaveop" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
     <a href="https://twitter.com/your-profile" target="_blank">
