@@ -188,7 +188,6 @@
     <a href="https://www.youtube.com/@Svaveop" target="_blank">
     <img src="http://clipart-library.com/images_k/youtube-transparent-png/youtube-transparent-png-15.png" height="45" width="45" alt="Youtube"/>
   </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en" alt="svaveop" />
