@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  🌱 I am currently advancing my skills in <strong>Java (itProger) </strong> and <strong> JavaScript (Packt)</strong>.
+  🌱 I am currently advancing my skills in <strong>JavaScript - React(itProger) </strong>.
 </p>
 
 <p align="center">
