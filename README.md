@@ -13,6 +13,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Svaveop&theme=gruvbox&no-frame=true&margin-w=5&title=Commits,Stars,Followers,PullRequest,Repositories&column=5&row=1" alt="GitHub Trophies">
   </a>
 </div>
+<p align="center">
+    🌍 <strong>Full-stack developer</strong> passionate about creating clean, efficient code.
+</p>
 
 <p align="center">
   🌱 I am currently advancing my skills in <strong>JavaScript - React(itProger) </strong>.
