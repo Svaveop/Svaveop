@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  🌱 I am currently advancing my skills in <strong>JavaScript - React(itProger) </strong>.
+  🌱 I am currently advancing my skills in <strong>JavaScript - React(itProger)</strong>.
 </p>
 
 <p align="center">
@@ -171,7 +171,7 @@
 </table>
 
 <p align="center">
-  <em>Also Xcode but it's only for macOS</em>
+  <em>Also <strong>Xcode</strong> but it's only for <strong>macOS</strong>.</em>
 </p>
 
 <p align="center">
