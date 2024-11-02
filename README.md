@@ -162,12 +162,14 @@
       </a>
       <br>Arduino IDE
     </td>
+    <td align="center" width="99">
+      <a href="https://www.arduino.cc/en/software" target="_blank">
+        <img src="https://vectorseek.com/wp-content/uploads/2023/08/Xcode-Logo-Vector.svg-.png" width="48" height="48" alt="Arduino IDE" />
+      </a>
+      <br>Xcode
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <em>Also <strong>Xcode</strong> but it's only for <strong>macOS</strong>.</em>
-</p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/svaveop">
