@@ -85,8 +85,7 @@
   </tr>
 </table>-->
 
-
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools & IDEs</h3>
 <table align="center">
   <tr>
     <td align="center" width="99">
@@ -121,15 +120,11 @@
     </td>
     <td align="center" width="99">
       <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://www.freeiconspng.com/thumbs/command-line-icon/command-line-icon-1.png" width="48" height="48" alt="Bootstrap" />
+        <img src="https://www.freeiconspng.com/thumbs/command-line-icon/command-line-icon-1.png" width="48" height="48" alt="Command Prompt" />
       </a>
       <br>Command Prompt
     </td>
   </tr>
-</table>
-
-<h3 align="center">IDEs</h3>
-<table align="center">
   <tr>
     <td align="center" width="99">
       <a href="https://www.jetbrains.com/pycharm/" target="_blank">
@@ -153,7 +148,7 @@
       <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
       </a>
-      <br>VS<br> Code
+      <br>VS Code
     </td>
     <td align="center" width="99">
       <a href="https://www.sublimetext.com/" target="_blank">
