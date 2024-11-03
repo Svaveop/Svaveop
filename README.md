@@ -29,6 +29,23 @@
   🎉 I've been passionate about programming since I was <strong>10 years old</strong>.
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/svaveop">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="svaveop" />
+  </a>
+     <a href="https://instagram.com/Svaveop" target="_blank">
+    <img src="https://freelogopng.com/images/all_img/1658588965instagram-logo-png-transparent-background.png" height="40" width="40" alt="GitHub"/>
+  </a>
+  <!--<a href="linkedin.com/in/vahe-martirosyan-3a4473318 target="_blank">
+    <img src="http://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" height="30" width="30" alt="LinkedIn"/>
+  </a>-->
+  <a href="https://x.com/svaveop" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" height="45" width="45" alt="Twitter"/>
+  </a>
+    <a href="https://www.youtube.com/@Svaveop" target="_blank">
+    <img src="http://clipart-library.com/images_k/youtube-transparent-png/youtube-transparent-png-15.png" height="45" width="45" alt="Youtube"/>
+  </a>
+
 <!--<h3 align="center">Languages</h3>
 <table align="center">
   <tr>
@@ -176,23 +193,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/svaveop">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="svaveop" />
-  </a>
-     <a href="https://instagram.com/Svaveop" target="_blank">
-    <img src="https://freelogopng.com/images/all_img/1658588965instagram-logo-png-transparent-background.png" height="40" width="40" alt="GitHub"/>
-  </a>
-  <!--<a href="linkedin.com/in/vahe-martirosyan-3a4473318 target="_blank">
-    <img src="http://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" height="30" width="30" alt="LinkedIn"/>
-  </a>-->
-  <a href="https://x.com/svaveop" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" height="45" width="45" alt="Twitter"/>
-  </a>
-    <a href="https://www.youtube.com/@Svaveop" target="_blank">
-    <img src="http://clipart-library.com/images_k/youtube-transparent-png/youtube-transparent-png-15.png" height="45" width="45" alt="Youtube"/>
-  </a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en" alt="svaveop" />
