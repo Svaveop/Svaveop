@@ -124,6 +124,12 @@
       </a>
       <br>Command Prompt
     </td>
+        <td align="center" width="99">
+      <a href="https://chatgpt.com/" target="_blank">
+        <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="48" height="48" alt="Command Prompt" />
+      </a>
+      <br>ChatGPT
+    </td>
   </tr>
   <tr>
     <td align="center" width="99">
