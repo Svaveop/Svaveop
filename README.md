@@ -187,7 +187,7 @@
     </td>
     <td align="center" width="99">
       <a href="https://developer.apple.com/xcode/" target="_blank">
-        <img src="https://vectorseek.com/wp-content/uploads/2023/08/Xcode-Logo-Vector.svg-.png" width="48" height="48" alt="Arduino IDE" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/25/3a/58253a1d-1cf2-c4a5-44a6-6bbc8ee6e274/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png" width="48" height="48" alt="Arduino IDE" />
       </a>
       <br>Xcode
     </td>
