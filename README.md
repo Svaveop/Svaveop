@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  🌱 I am currently advancing my skills in <strong>JavaScript - React(itProger)</strong>.
+  🌱 I am currently advancing my skills in <strong>Creating sites with php and sql</strong>.
 </p>
 
 <p align="center">
