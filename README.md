@@ -198,7 +198,7 @@
   <br/>
 <!--     <img src="https://streak-stats.demolab.com/?user=svaveop" alt="Streak Stats" style="display: inline-block;" /> -->
     <img src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en" alt="svaveop" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Most Used Languages" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Most Used Languages" style="display: inline-block;" />
 </p>
 
 <!--<div align="center">
