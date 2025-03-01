@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  🌱 I am currently advancing my skills in <strong>creating sites with php and sql</strong>.
+  🌱 I am currently advancing my skills in <strong>little bit different sphere(Phones' OSes)</strong>.
 </p>
 
 <p align="center">
