@@ -25,9 +25,9 @@
     📫 Feel free to contact me at <strong>vahe.martirosyan202096@gmail.com </strong>
 </p>
 
-<p align="center">
-  🎉 Enter <a href="https://svaveop.wordpress.com/">here</a> for more information </strong>.
-</p>
+<!-- <p align="center">
+   🎉 Enter <a href="https://svaveop.wordpress.com/">here</a> for more information </strong>.
+ </p> -->
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/svaveop">
