@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  🎉 I've been passionate about programming since I was <strong>10 years old</strong>.
+  🎉 Enter <a href="https://svaveop.wordpress.com/">here</a> for more information </strong>.
 </p>
 
 <p align="center">
