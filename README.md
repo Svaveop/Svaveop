@@ -117,6 +117,10 @@
       </a>
       <br>GitHub
     </td>
+          <td align="center" width="99">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" />
+      <br>Github
+    </td>
     <td align="center" width="99">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
