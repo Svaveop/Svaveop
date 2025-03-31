@@ -113,13 +113,9 @@
     </td>
     <td align="center" width="99">
       <a href="https://github.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="64" height="64" alt="GitHub" />
       </a>
       <br>GitHub
-    </td>
-          <td align="center" width="99">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" />
-      <br>Github
     </td>
     <td align="center" width="99">
       <a href="https://www.figma.com/" target="_blank">
