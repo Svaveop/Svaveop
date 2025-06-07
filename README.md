@@ -112,10 +112,10 @@
       <br>Git
     </td>
     <td align="center" width="99">
-      <a href="https://github.com/" target="_blank">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="64" height="64" alt="GitHub" />
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48" alt="Linux" />
       </a>
-      <br>GitHub
+      <br>Linux
     </td>
     <td align="center" width="99">
       <a href="https://www.figma.com/" target="_blank">
