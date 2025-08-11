@@ -18,11 +18,11 @@
 </p>
 
 <p align="center">
-  🌱 I am currently advancing my skills in <strong>studying Linux</strong>.
+    📫 Feel free to contact me at <strong>vahe.martirosyan202096@gmail.com </strong>
 </p>
 
 <p align="center">
-    📫 Feel free to contact me at <strong>vahe.martirosyan202096@gmail.com </strong>
+  🌱 I am currently advancing my skills in <strong>Linux</strong>.
 </p>
 
 <!-- <p align="center">
