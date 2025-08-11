@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  🌱 I am currently advancing my skills in <strong>little bit different sphere: phones' OSes</strong>.
+  🌱 I am currently advancing my skills in <strong>studying Linux</strong>.
 </p>
 
 <p align="center">
