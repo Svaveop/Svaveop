@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Svaveop&theme=gruvbox&no-frame=true&margin-w=5&title=Commits,Stars,Followers,PullRequest,Repositories&column=5&row=1" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Svaveop&theme=gruvbox&no-frame=true&margin-w=5&title=Commits,Stars,Followers,Repositories&column=4&row=1" alt="GitHub Trophies">
   </a>
 </div>
 <p align="center">
