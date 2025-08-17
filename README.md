@@ -196,10 +196,11 @@
 
 <p align="center">
   <br/>
-<!--     <img src="https://streak-stats.demolab.com/?user=svaveop" alt="Streak Stats" style="display: inline-block;" /> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en" alt="svaveop" style="width: 515px; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Most Used Languages" style="display: inline-block;" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=svaveop" alt="Streak Stats" style="display: inline-block;" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en&theme=dark" alt="svaveop" style="width: 515px; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Most Used Languages" style="display: inline-block;" />
 </p>
+
 
 <!--<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Svaveop&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Vahe's GitHub activity graph" />
