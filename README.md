@@ -131,7 +131,7 @@
     </td>
     <td align="center" width="99">
       <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="60" height="60" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
