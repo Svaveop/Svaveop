@@ -175,7 +175,7 @@
     </td>
     <td align="center" width="99">
       <a href="https://www.sublimetext.com/" target="_blank">
-        <img src="https://toppng.com/uploads/preview/sublime-text-icon-sublime-text-3-icon-11553464063uymi94fpyp.png" width="48" height="48" alt="Sublime Text" />
+        <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/sublime_text_macos_bigsur_icon_189685.png" width="52" height="52" alt="Sublime Text" />
       </a>
       <br>Sublime Text
     </td>
