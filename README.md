@@ -3,11 +3,9 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World+👋;+I+am+Vahe+Martirosyan+🔥;" />
     </a>
 </h1>
-
 <!--<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Svaveop&label=My%20Views&color=9&icon=1&pretty=true" />
 </a>-->
-
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Svaveop&theme=gruvbox&no-frame=true&margin-w=5&title=MultiLanguage,Commits,Stars,Repositories&column=4&row=1" alt="GitHub Trophies">
