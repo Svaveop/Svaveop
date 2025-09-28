@@ -137,7 +137,7 @@
       <a href="https://www.microsoft.com/windows/" target="_blank">
         <img src="https://www.freeiconspng.com/thumbs/command-line-icon/command-line-icon-1.png" width="48" height="48" alt="Command Prompt" />
       </a>
-      <br>Command Prompt
+      <br>Command Prompt(Win)
     </td>
         <td align="center" width="99">
       <a href="https://chatgpt.com/" target="_blank">
