@@ -134,16 +134,16 @@
       <br>Bootstrap
     </td>
     <td align="center" width="99">
-      <a href="https://www.microsoft.com/windows/" target="_blank">
-        <img src="https://www.freeiconspng.com/thumbs/command-line-icon/command-line-icon-1.png" width="48" height="48" alt="Command Prompt" />
+      <a href="https://www.tinkercad.com/" target="_blank">
+        <img src="https://cdn-1.webcatalog.io/catalog/tinkercad/tinkercad-icon-filled-256.png?v=1675597622084" width="48" height="48" alt="Command Prompt" />
       </a>
-      <br>Command Prompt(Win)
+      <br>Tinkercad
     </td>
         <td align="center" width="99">
       <a href="https://chatgpt.com/" target="_blank">
         <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="48" height="48" alt="Command Prompt" />
       </a>
-      <br>ChatGPT (TBH)
+      <br>ChatGPT
     </td>
   </tr>
   <tr>
