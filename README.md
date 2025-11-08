@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    📫 Feel free to contact me at <strong>vahe.martirosyan202096@gmail.com </strong>
+    📫 Feel free to contact me at <strong>vahe.maine96gmail.com </strong>
 </p>
 
 <p align="center">
