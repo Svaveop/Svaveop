@@ -24,7 +24,7 @@
 </p>
 
 <!-- <p align="center">
-   🎉 Enter <a href="https://svaveop.wordpress.com/">here</a> for more information </strong>.
+   🎉 Enter my <a href="https://svaveop.wordpress.com/">Wordpress</a> for more information </strong>.
  </p> -->
 
 <p align="center">
