@@ -12,15 +12,13 @@
   </a>
 </div>
 <p align="center">
-    🌍 <strong>Full-stack developer</strong> passionate about creating clean, efficient code.
-</p>
-
-<p align="center">
-    📫 Feel free to contact me at <strong>vahe.maine96gmail.com </strong>
-</p>
-
-<p align="center">
-  🌱 I am currently advancing my skills in <strong>Linux & C++</strong>.
+    Hi, I'm Vahe 👋
+    I’m a high school student deeply interested in systems and how they work under the hood ⚙️
+    I enjoy exploring operating systems, especially Linux 🐧. I’ve experimented with different distributions, and Fedora with DNF fits me best. In general, I prefer working in a Linux terminal environment — it feels more powerful and flexible to me.
+    JavaScript is the language I’m most comfortable with, although I’ve worked with other languages and tools as well (listed in my portfolio). I like JavaScript as a language, but I’m more interested in core logic and systems than in traditional website development.
+    I’m also a TUMO student 🎓, and my TUMO portfolio is linked in my profile.
+    Currently learning, experimenting, and building 🚀
+    📫 Contact: vahe.maine96@gmail.com
 </p>
 
 <!-- <p align="center">
