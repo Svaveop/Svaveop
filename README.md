@@ -19,10 +19,6 @@ TUMO student 🎓 - portfolio linked in my profile<br>
 Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe.maine96@gmail.com</strong>
 </p>
 
-<!-- <p align="center">
-   🎉 Enter my <a href="https://svaveop.wordpress.com/">Wordpress</a> for more information </strong>.
- </p> -->
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/svaveop">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="svaveop" />
@@ -40,62 +36,6 @@ Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe
     <a href="https://www.youtube.com/@Svaveop" target="_blank">
     <img src="http://clipart-library.com/images_k/youtube-transparent-png/youtube-transparent-png-15.png" height="45" width="45" alt="Youtube"/>
   </a>
-
-<!--<h3 align="center">Languages</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="99">
-      <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="99">
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="99">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="99">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="99">
-      <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="99">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="99">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="99">
-      <a href="https://developer.apple.com/swift/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" />
-      </a>
-      <br>Swift
-    </td>
-  </tr>
-</table>-->
 
 <h3 align="center">Tools & IDEs</h3>
 <table align="center">
@@ -177,15 +117,9 @@ Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe
   </tr>
 </table>
 
-
 <p align="center">
   <br/>
   <!-- <img src="https://streak-stats.demolab.com/?user=svaveop" alt="Streak Stats" style="display: inline-block;" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=svaveop&show_icons=true&locale=en" alt="svaveop" style="width: 515px; height: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svaveop&show_icons=true&locale=en&layout=compact&langs_count=9" alt="Most Used Languages" style="display: inline-block;" />
 </p>
-
-
-<!--<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Svaveop&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Vahe's GitHub activity graph" />
-</div>-->
