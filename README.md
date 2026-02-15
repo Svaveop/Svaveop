@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  🌱 I am currently advancing my skills in <strong>Linux & C</strong>.
+  🌱 I am currently advancing my skills in <strong>Linux & C++</strong>.
 </p>
 
 <!-- <p align="center">
