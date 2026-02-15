@@ -132,15 +132,9 @@ Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe
     </td>
     <td align="center" width="99">
       <a href="https://www.tinkercad.com/" target="_blank">
-        <img src="https://cdn-1.webcatalog.io/catalog/tinkercad/tinkercad-icon-filled-256.png?v=1675597622084" width="48" height="48" alt="Command Prompt" />
+        <img src="https://cdn-1.webcatalog.io/catalog/tinkercad/tinkercad-icon-filled-256.png?v=1675597622084" width="48" height="48" alt="Tinkercad" />
       </a>
       <br>Tinkercad
-    </td>
-        <td align="center" width="99">
-      <a href="https://chatgpt.com/" target="_blank">
-        <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="48" height="48" alt="Command Prompt" />
-      </a>
-      <br>ChatGPT
     </td>
   </tr>
   <tr>
@@ -157,14 +151,8 @@ Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe
       <br>IntelliJ IDEA
     </td>
     <td align="center" width="99">
-      <a href="https://visualstudio.microsoft.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
-      </a>
-      <br>Visual Studio
-    </td>
-    <td align="center" width="99">
       <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       </a>
       <br>VS Code
     </td>
@@ -182,12 +170,13 @@ Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe
     </td>
     <td align="center" width="99">
       <a href="https://developer.apple.com/xcode/" target="_blank">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/25/3a/58253a1d-1cf2-c4a5-44a6-6bbc8ee6e274/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png" width="48" height="48" alt="Arduino IDE" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/25/3a/58253a1d-1cf2-c4a5-44a6-6bbc8ee6e274/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png" width="48" height="48" alt="Xcode" />
       </a>
       <br>Xcode
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <br/>
