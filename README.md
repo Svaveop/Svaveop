@@ -16,7 +16,7 @@ High school student passionate about systems ⚙️<br>
 <strong>Linux</strong> enthusiast 🐧 - tried many distros, <strong>Fedora</strong> with <strong>DNF</strong> is my favorite<br>
 <strong>JavaScript</strong> is my strongest language, but I enjoy exploring other tools too<br>
 TUMO student 🎓 - portfolio linked in my profile<br>
-Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe.maine96@gmail.com</strong>
+Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe.martirosyan6@tumo.org</strong>
 </p>
 
 <p align="center">
