@@ -51,13 +51,6 @@ Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe
         <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
-    </td>
-    <td align="center" width="99">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
     <td align="center" width="99">
       <a href="https://unity.com/" target="_blank">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png" width="48" height="48" alt="Unity" />
@@ -107,13 +100,6 @@ Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino IDE" />
       </a>
       <br>Arduino IDE
-    </td>
-    <td align="center" width="99">
-      <a href="https://developer.apple.com/xcode/" target="_blank">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/25/3a/58253a1d-1cf2-c4a5-44a6-6bbc8ee6e274/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png" width="48" height="48" alt="Xcode" />
-      </a>
-      <br>Xcode
-    </td>
   </tr>
 </table>
 
