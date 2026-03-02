@@ -12,11 +12,11 @@
   </a>
 </div>
 <p align="center">
-High school student passionate about systems ⚙️<br>
-<strong>Linux</strong> enthusiast 🐧 - tried many distros, <strong>Fedora</strong> with <strong>DNF</strong> is my favorite<br>
-<strong>JavaScript</strong> is my main language, as second it's python<br>
-TUMO student 🎓 - portfolio linked in my profile<br>
-Currently learning, experimenting, and building 🚀  📫 Contact: <strong>vahe.martirosyan6@tumo.org</strong>
+🎓 High school and TUMO student passionate about systems ⚙️<br>
+🐧 <strong>Linux</strong> enthusiast - tried many distros, <strong>Fedora</strong> with <strong>DNF</strong> is my favorite 💻<br>
+⭐ <strong>JavaScript</strong> is my main language, as second it's Python 🐍<br>
+✨ Personally tried a lot of things and languages, but main things are below 👇<br>
+📫 Contact: <strong>vahe.martirosyan6@tumo.org</strong>
 </p>
 
 <p align="center">
