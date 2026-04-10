@@ -12,7 +12,7 @@
 🎓 High school and TUMO student passionate about systems ⚙️<br>
 🐧 <strong>Linux</strong> enthusiast - tried many distros, <strong>Fedora</strong> with <strong>DNF</strong> is my favorite 🕹️<br>
 ⭐ <strong>JavaScript</strong> is my main language, as second it's Python 🐍<br>
-✨ Personally tried a lot of things and languages, but main ones are below 👇<br>
+✨ Personally tried a lot of things and languages, main ones are mentioned/below 👇<br>
 📫 Contact: <strong>vahe.martirosyan6@tumo.org</strong>
 </p>
 
