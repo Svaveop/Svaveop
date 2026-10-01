@@ -13,7 +13,7 @@
 🐧 <strong>Linux</strong> enthusiast - tried many distros, <strong>Fedora</strong> with <strong>DNF</strong> is my favorite 🕹️<br>
 ⭐ <strong>JavaScript</strong> is my main language, as second it's C++ 🦎<br>
 ✨ Personally tried a lot of things and languages, main ones are mentioned/below 👇<br>
-📫 Contact me: <strong>vahe.martirosyann@proton.me</strong>
+📫 Contact me at: <strong>vahe.martirosyann@proton.me</strong>
 </p>
 
 <h3 align="center">Tools & IDEs</h3>
